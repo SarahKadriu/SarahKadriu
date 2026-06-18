@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there! 
  I am currently studying **Financial Mathematics** and developing my skills as a **Junior Java Developer**. I also have experience in programming with **C++** and basic knowledge of **HTML/CSS** for web development. 
  ## Skills
  - **Java**: Junior level, focusing on problem-solving and object-oriented programming.
